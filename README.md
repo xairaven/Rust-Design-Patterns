@@ -15,6 +15,7 @@ These are my personal solutions, so only corrections are accepted. Solutions to 
 
 ### Table of Contents
 1. [Idioms](./01-Idioms)
+2. [Design Patterns](./02-Desing-Patterns)
 
 **This repository is license free and redistributable.** <br>
 **Not used commercially**
