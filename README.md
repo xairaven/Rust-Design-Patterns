@@ -14,7 +14,7 @@ These are my personal solutions, so only corrections are accepted. Solutions to 
 **Rust Design Patterns Book: https://rust-unofficial.github.io/patterns**
 
 ### Table of Contents
-1.
+1. [Idioms](./01-Idioms)
 
 **This repository is license free and redistributable.** <br>
 **Not used commercially**
