@@ -9,7 +9,7 @@ If you find anything incorrect you can create an issue or open a pull request.<b
 
 These are my personal solutions, so only corrections are accepted. Solutions to missing exercises are not needed! <br>
 
-**Status:** *Work in Progress*
+**Status:** *Done (21.07.2024)*
 
 **Rust Design Patterns Book: https://rust-unofficial.github.io/patterns**
 
